@@ -1,3 +1,4 @@
 for(i in 1:10){
-  print("hello world")
+  i=i+2
+  print(i)
 }
